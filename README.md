@@ -13,4 +13,6 @@ Lecture 13 slides of iOS 11
 
 You make you data type Codable easily if your vars are Cadable!
 
+Another way is <b>Core Data</b>
+
 
